@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+body{
+   background-image: url("https://pyxis.nymag.com/v1/imgs/99e/6f5/6eed622d1b1b0a77caad3e658d61630b76-baby-yoda.rsquare.w700.jpg");
+    
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+::placeholder{
+    font-family: cursive;
+    font-size:large;
+    color:#E5E7EB;
+}
+
+.nav-class{
+    /* background-color:#EC4899; */
+     height: 15vh;
+    width: 100%;
+    color:white;
+
+}
+.footer{
+    /* background-color:#EC4899; */
+     height: 20vh;
+    width: 100%;
+    color:#E5E7EB;
+
+}
+
+.container-center{
+    max-width: 600px;
+    margin: auto;
+}
+
+#txt-input{
+    border: 2px solid white;
+    height: 20vh;
+    width: 80%;
+    margin-top:1rem;
+    background-color: transparent;
+}
+#output{
+    border: 2px solid white;
+    height: 15vh;
+    width: 80%;
+    margin-top:1rem;
+margin-bottom: 1rem;
+
+}
+#btn-translate{
+    /* background-color:#EC4899 ; */
+    background-color: transparent;
+    color:white;
+    height: 10vh;
+    width: 30%;
+   margin:1rem 0rem 1rem ;
+   border: none;
+   font-weight: bold;
+   font-size: x-large;
+   font-family: cursive;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    padding-top: 1.5rem;
+    font-family: cursive;
+}
+
+.about{
+    padding-top: 0rem;
+    
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+p{
+    text-align: center;
+    font-size:90%;
+    padding-top: 1em;
+    color:#E5E7EB ;
+}
+.show-here{
+    font-size:large;
+    color: #E5E7EB;
+
+}
