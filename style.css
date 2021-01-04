@@ -15,7 +15,8 @@ body{
 }
 ::placeholder{
     font-family:cursive;
-    font-size:90%;
+    font-size:large;
+    font-weight: bold;
     color:#F3F4F6;
 }
 
@@ -84,13 +85,15 @@ margin-bottom: 1rem;
 }
 
 p{
-    text-align: center;
-    font-size:90%;
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
     padding-top: 1em;
     color:#F3F4F6 ;
 }
 .show-here{
-    font-size:90%;
+    font-weight: bold;
+    font-size:large;
     color: #F3F4F6;
 
 }
