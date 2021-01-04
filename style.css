@@ -1,18 +1,22 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
 body{
    background-image: url("https://pyxis.nymag.com/v1/imgs/99e/6f5/6eed622d1b1b0a77caad3e658d61630b76-baby-yoda.rsquare.w700.jpg");
     
     background-repeat: no-repeat;
     background-position:center ;
     background-size: cover;
-    font-family: cursive;
+    font-family: sans-serif;
     box-sizing: border-box;
 }
+*{
+    font-family: sans-serif;
+}
 ::placeholder{
-    font-family: cursive;
-    font-size:large;
-    color:#E5E7EB;
+    font-family: sans-serif;
+    font-size:90%;
+    color:#F3F4F6;
 }
 
 .nav-class{
@@ -83,10 +87,10 @@ p{
     text-align: center;
     font-size:90%;
     padding-top: 1em;
-    color:#E5E7EB ;
+    color:#F3F4F6 ;
 }
 .show-here{
-    font-size:large;
-    color: #E5E7EB;
+    font-size:90%;
+    color: #F3F4F6;
 
 }
