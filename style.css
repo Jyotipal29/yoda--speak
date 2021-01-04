@@ -11,10 +11,10 @@ body{
     box-sizing: border-box;
 }
 *{
-    font-family: sans-serif;
+    font-family: cursive;
 }
 ::placeholder{
-    font-family: sans-serif;
+    font-family:cursive;
     font-size:90%;
     color:#F3F4F6;
 }
@@ -64,14 +64,14 @@ margin-bottom: 1rem;
    border: none;
    font-weight: bold;
    font-size: x-large;
-   font-family: cursive;
+   font-family: sans-serif;
 }
 .heading{
     text-align: center;
     font-weight: bold;
     font-size: x-large;
     padding-top: 1.5rem;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 
 .about{
@@ -80,7 +80,7 @@ margin-bottom: 1rem;
     text-align: center;
     font-weight: bold;
     font-size: x-large;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 
 p{
